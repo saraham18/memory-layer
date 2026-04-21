@@ -559,4 +559,4 @@ make check
 
 ## License
 
-MIT
+This project is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). You are free to use, share, and adapt it for non-commercial purposes with attribution.
